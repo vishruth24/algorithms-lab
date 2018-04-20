@@ -3,8 +3,12 @@ All programs of Analysis and design of algorithms written in Python.
 
 # Program List
 
-* Recursive Linear Search
+* Brute Force
+    1. Recursive Linear Search
+    2. Selection Sort
+* Greedy Technique
+    1. Prim's Algorithm
 
-# Author 
+
+# Author
 Vishruth
-
