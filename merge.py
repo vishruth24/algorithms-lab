@@ -21,11 +21,11 @@ def mergersort(arr):
                 j+=1
             k+=1
 
-        if i<len(lefthalf):
+        while i<len(lefthalf):
             arr[k]=lefthalf[i]
             i+=1
             k+=1
-        if j<len(righthalf):
+        while j<len(righthalf):
             arr[k]=righthalf[j]
             j+=1
             k+=1
